@@ -137,7 +137,7 @@ st.title("Health Disease Prediction🩺")
 # Dataset selection below the title
 dataset_choice = st.selectbox(
     "Choose a dataset to explore:",
-    ["Select", "Heart Disease", "Chronic Kidney Disease", "Diabetes", "Breast Cancer", "Liver Disorders"]
+    ["Select", "Heart Disease", "Diabetes", "Breast Cancer", "Liver Disorders"]
 )
 
 # Dataset descriptions
